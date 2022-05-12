@@ -1,0 +1,61 @@
+{
+  "Collection": {
+    "Name": "WorldTimerPanel",
+    "ViewPort": {
+      "xorigin": 760,
+      "yorigin": 1720,
+      "width": 145,
+      "height": 2160,
+      "alignment": "TopLeft"
+    },
+    "Widgets": [{
+      "Widget": {
+        "Type": "Anchor",
+        "Name": "WorldTimer",
+        "Anchor": {
+          "xorigin": 0,
+          "yorigin": 0,
+          "alignment": "TopLeft"
+        },
+        "ZPlane": 1,
+        "ChildWidgets": [{
+          "Widget": {
+            "Type": "Label",
+            "Name": "WorldTimerLabel",
+            "ViewPort": {
+              "xorigin": 0,
+              "yorigin": 12,
+              "width": 1000,
+              "height": 40,
+              "alignment": "TopLeft"
+            },
+
+            "StateMaterials": {
+              "StateNormal": {
+                "Font": {
+                  "FontIndex": 3,
+                  "PointSize": 45,
+                  "Style": "Normal",
+                  "TextColor": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1,
+                    "a": 1
+                  },
+                  "TextOutlineWidth": 0.05,
+                  "TextOutlineColor": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1,
+                    "a": 255
+                  }
+                }
+              }
+            },
+            "TextAnchor": "TopLeft"
+          }
+        }]
+      }
+    }]
+  }
+}

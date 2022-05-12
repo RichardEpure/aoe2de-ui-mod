@@ -2,8 +2,8 @@
   "Collection": {
     "Name": "WorldTimerPanel",
     "ViewPort": {
-      "xorigin": 760,
-      "yorigin": 1720,
+      "xorigin": 850,
+      "yorigin": 1610,
       "width": 145,
       "height": 2160,
       "alignment": "TopLeft"

@@ -57,7 +57,7 @@
              "ClickSound": "Play_Button_UI",
              "ViewPort": {
                 "xorigin": 231,
-                "yorigin": 171,
+                "yorigin": 181,
                 "width": 60,
                 "height": 60,
                 "alignment": "CentreCentre"
@@ -88,7 +88,7 @@
                 "ClickSound": "Play_Button_UI",
                 "ViewPort": {
                    "xorigin": 970,
-                   "yorigin": 171,
+                   "yorigin": 181,
                    "width": 60,
                    "height": 60,
                    "alignment": "CentreCentre"
